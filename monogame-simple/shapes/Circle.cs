@@ -11,7 +11,7 @@ public class Circle {
         this.radius = radius;
     }
 
-    public Vector2 GetCentre() { return this.centre; }
-    public double GetRadius() { return this.radius; }
-    public void SetCentre(Vector2 newCentre) { this.centre = newCentre; }
+    public Vector2 GetCentre() { return centre; }
+    public double GetRadius() { return radius; }
+    public void SetCentre(Vector2 newCentre) { centre = newCentre; }
 }

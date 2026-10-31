@@ -12,6 +12,6 @@ public class Transform : Component
         this.position = position;
     }
 
-    public Vector2 GetPosition() { return this.position; }
-    public void SetPosition(Vector2 newPosition) { this.position = newPosition; }
+    public Vector2 GetPosition() { return position; }
+    public void SetPosition(Vector2 newPosition) { position = newPosition; }
 }
