@@ -35,3 +35,6 @@ C:\learning\monogame-simple\monogame-simple\obj\Debug\net9.0\refint\monogame-sim
 C:\learning\monogame-simple\monogame-simple\obj\Debug\net9.0\monogame-simple.pdb
 C:\learning\monogame-simple\monogame-simple\obj\Debug\net9.0\monogame-simple.genruntimeconfig.cache
 C:\learning\monogame-simple\monogame-simple\obj\Debug\net9.0\ref\monogame-simple.dll
+C:\learning\monogame-simple\monogame-simple\bin\Debug\net9.0\Content\jellyfish.xnb
+C:\learning\monogame-simple\monogame-simple\bin\Debug\net9.0\Content\sea.xnb
+C:\learning\monogame-simple\monogame-simple\bin\Debug\net9.0\Content\turtle.xnb
