@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/learning/monogame-simple/monogame-simple/Content/jellyfish.png","C:/learning/monogame-simple/monogame-simple/Content/bin/DesktopGL/jellyfish.xnb","TextureProcessor","Texture2DContent",494,4181,0.1357595
+"C:/learning/monogame-simple/monogame-simple/Content/sea.png","C:/learning/monogame-simple/monogame-simple/Content/bin/DesktopGL/sea.xnb","TextureProcessor","Texture2DContent",850975,8294485,0.4517615
+"C:/learning/monogame-simple/monogame-simple/Content/turtle.png","C:/learning/monogame-simple/monogame-simple/Content/bin/DesktopGL/turtle.xnb","TextureProcessor","Texture2DContent",602,4181,0.0149491

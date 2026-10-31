@@ -8,6 +8,9 @@ public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
+    private Texture2D playerSprite;
+    private Texture2D enemySprite;
+    private Texture2D backgroundSprite;
 
     public Game1()
     {
