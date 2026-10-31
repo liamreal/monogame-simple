@@ -2,9 +2,9 @@
 
 to run game, open this directory in cmd and do:
 
->dotnet build
+``dotnet build``
 
 then:
 
->dotnet run
+``dotnet run``
 
