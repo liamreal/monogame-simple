@@ -1,4 +1,6 @@
-﻿using Microsoft.Xna.Framework;
+﻿using System;
+using ecs;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
@@ -33,6 +35,12 @@ public class Game1 : Game
         enemySprite = Content.Load<Texture2D>("turtle");
         playerSprite = Content.Load<Texture2D>("jellyfish");
         backgroundSprite = Content.Load<Texture2D>("sea");
+
+
+        // Entity entity = new Entity(1);
+        // Console.WriteLine(entity.GetId());
+        
+        // throw new Exception("INTENTIONAL ERROR");
     }
 
     protected override void Update(GameTime gameTime)
