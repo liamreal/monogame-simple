@@ -37,9 +37,9 @@ public class Game1 : Game
         backgroundSprite = Content.Load<Texture2D>("sea");
 
 
-        // Entity entity = new Entity(1);
+        Entity entity = new Entity(1, Tag.PLAYER);
         // Console.WriteLine(entity.GetId());
-        
+
         // throw new Exception("INTENTIONAL ERROR");
     }
 

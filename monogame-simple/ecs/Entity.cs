@@ -12,4 +12,5 @@ public class Entity
     }
 
     public int GetId() { return id; }
+    public Tag GetTag() { return tag; }
 }
