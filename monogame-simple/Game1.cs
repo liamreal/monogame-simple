@@ -49,7 +49,11 @@ public class Game1 : Game
     {
         GraphicsDevice.Clear(Color.CornflowerBlue);
 
-        // TODO: Add your drawing code here
+        _spriteBatch.Begin();
+        _spriteBatch.Draw(backgroundSprite, new Vector2(0, 0), Color.Blue);
+        _spriteBatch.Draw(enemySprite, new Vector2(0, 0), Color.Red);
+        _spriteBatch.Draw(playerSprite, new Vector2(0, 0), Color.Wheat);
+        _spriteBatch.End();
 
         base.Draw(gameTime);
     }
